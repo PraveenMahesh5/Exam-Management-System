@@ -1,0 +1,60 @@
+h1, p {
+    font-family: Lato;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  form {
+    padding: 50px;
+    border: 1px solid #1a39b5;
+  }
+  label,
+  input,
+  textarea,
+  select {
+    display: inline;
+    width: 10%;
+  }
+  input,
+  textarea,
+  select {
+    line-height: 24px;
+    font-size: 14px;
+    border: 1px solid #18747e;
+    border-radius: 2px;
+  }
+  input,
+  select {
+    height: 35px;
+  }
+  input[type="checkbox"],
+  input[type="radio"] {
+    position: relative;
+    bottom: -2px;
+    display: inline-block;
+    height: 16px;
+    width: 16px;
+    margin-left: 8px;
+  }
+  textarea {
+    height: 48px;
+  }
+  pre {
+    background: #903083;
+    padding: 16px;
+    border-radius: 4px;
+    white-space: pre-wrap;
+    overflow: hidden;
+  }
+  .app {
+    width: 100px;
+    max-width: 50%;
+    margin: 32px auto;
+  }
+  .heading {
+    display: inline-block;
+    font-weight: bold;
+    margin: 16px 0 8px 0;
+  }
+  

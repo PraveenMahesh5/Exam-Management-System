@@ -1,0 +1,77 @@
+.first{
+    height: 1000px;
+   position: fixed;
+   /* background-color: rgb(196, 225, 230);  */
+   width: 1500px;
+    background-repeat: no-repeat;
+
+    background-image:url( "pexels-steve-johnson-851117.jpg");
+    
+    background-size: cover;
+   
+   
+    /* background-image:linear-gradient(79deg, #5438b8, #d621c1 48%,#f79956); */
+}
+.first h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(244, 237, 237),;
+}
+.font{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(12, 2, 2);
+    font-style: bold;
+    font-size: x-large;
+}
+.li{
+    list-style-type: none;
+    
+
+}
+.button{
+    background-color: rgb(28, 115, 215);
+    opacity: 0.8;
+    color: rgb(10, 10, 10);
+   
+}
+.buttonno{
+    background-color: rgb(30, 76, 162);
+    opacity: 0.8;
+    color: rgb(10, 10, 10);
+
+}
+.list1{
+    height: 1000px;
+    width: 1500px;
+    background-color: rgb(228, 242, 247);
+    background-repeat: no-repeat;
+}
+.lists{
+    height: 1000px;
+    width: 1500px;
+    position: fixed;
+    background-color: rgb(228, 239, 243);
+    background-repeat: no-repeat;
+
+
+
+}
+.h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(74, 125, 137),;
+}
+.topi{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.box{
+    margin: auto;
+    background-color: grey;
+    width: 400px;
+    border: 05px solid rgb(196, 225, 230);
+    border-radius: 25px;
+    padding: 30px;
+    opacity: 0.9;
+    font-weight: bold;
+}
+
+
